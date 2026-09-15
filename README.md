@@ -91,8 +91,6 @@ This separation should reduce the problem currently experienced by NexusTech whe
 
 ## 3.3 Policy Hierarchy Diagram
 
-The following diagram can be rendered directly by GitHub using Mermaid:
-
 ```mermaid
 flowchart TD
     A[POLICY<br/>High-level mandatory direction<br/>Approved by CEO] --> B[STANDARD<br/>Specific mandatory requirements<br/>Derived from policy]
