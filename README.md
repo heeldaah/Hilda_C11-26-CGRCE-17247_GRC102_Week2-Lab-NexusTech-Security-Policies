@@ -1,3 +1,40 @@
+# INTERNATIONAL CYBERSECURITY AND DIGITAL FORENSICS ACADEMY (ICDFA)
+
+## Governance, Compliance, and Risk (GCR)
+
+### GRC102 Information Security Governance
+
+# Week 2 Lab: Developing Security Policies and Procedures
+
+**Student:** Hilda Odein Joshua-Jack  
+**Registration Number:** C11/26/CGRCE/17247  
+**Course Code:** GRC102  
+**Course Title:** Information Security Governance  
+**Week's Title:** Developing Security Policies and Procedures  
+**Credit Load:** 3 Credits  
+**Cohort:** 11  
+**Date:** 15th September, 2026
+
+---
+
+## 📋 Table of Contents
+
+1. [Introduction](01-Introduction.md)
+2. [Security Policy Development Lifecycle](02-Security-Policy-Development-Lifecycle.md)
+3. [Evidence Bundle 1 – Security Policy Hierarchy](evidence-bundles/Evidence-Bundle-1-Security-Policy-Hierarchy.md)
+4. [Evidence Bundle 2 – Acceptable Use Policy](evidence-bundles/Evidence-Bundle-2-Acceptable-Use-Policy.md)
+5. [Evidence Bundle 3 – User Access Request Procedure](evidence-bundles/Evidence-Bundle-3-User-Access-Request-Procedure.md)
+6. [Evidence Bundle 4 – Communication and Training Plan](evidence-bundles/Evidence-Bundle-4-Communication-and-Training-Plan.md)
+7. [Evidence Bundle 5 – Policy Review and Maintenance Memo](evidence-bundles/Evidence-Bundle-5-Policy-Review-and-Maintenance-Memo.md)
+8. [Overall Governance Considerations](07-Overall-Governance-Considerations.md)
+9. [References](08-References.md)
+10. [Conclusion](09-Conclusion.md)
+11. [AI Assistance Declaration](10-AI-Assistance-Declaration.md)
+12. [Appendix A – Student Completion Checklist](Appendix-A-Completion-Checklist.md)
+
+---
+
+
 # 1. Introduction
 
 NexusTech Solutions has increased its workforce to a significant extent from 50 to 250 workers and deals with customers in the finance and health care industries. Thus, there is more information, the use of which is associated with more technologies, and there is an increase in security and compliance needs.
