@@ -130,7 +130,8 @@ This separation should reduce the problem currently experienced by NexusTech whe
 
    The following diagram illustrates the flow from broad management direction to increasingly detailed implementation requirements:
 
-<img width="832" height="441" alt="image" src="https://github.com/user-attachments/assets/0f0a9a3d-356f-49f9-ab83-d949979624d4" />
+<img width="474" height="484" alt="image" src="https://github.com/user-attachments/assets/f47bfacb-e102-4b2b-b81a-70ddb4beb29d" />
+
 
 # EVIDENCE BUNDLE 2
 # Acceptable Use Policy
