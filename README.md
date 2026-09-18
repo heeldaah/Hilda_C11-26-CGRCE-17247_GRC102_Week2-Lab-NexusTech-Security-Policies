@@ -130,21 +130,12 @@ This separation should reduce the problem currently experienced by NexusTech whe
 
    The following diagram illustrates the flow from broad management direction to increasingly detailed implementation requirements:
 
-```mermaid
-    A[Policy] --> B[Standard]
-    A --> C[Guideline]
-    A --> D[Procedure]
-    B --> E[Implementation]
-    C --> E
+flowchart TD
+    A[POLICY<br/>High-level mandatory direction<br/>Approved by CEO] --> B[STANDARD<br/>Specific mandatory requirements<br/>Derived from policy]
+    B --> C[GUIDELINE<br/>Recommended good practice<br/>Advisory]
+    B --> D[PROCEDURE<br/>Step-by-step instructions<br/>Mandatory where applicable]
+    C --> E[Implementation]
     D --> E
-
-    style A fill:#1f4e79,color:#fff
-    style B fill:#2e75b6,color:#fff
-    style C fill:#9dc3e6,color:#000
-    style D fill:#2e75b6,color:#fff
-    style E fill:#c5e0b4,color:#000
-
-
 
 # EVIDENCE BUNDLE 2
 # Acceptable Use Policy
