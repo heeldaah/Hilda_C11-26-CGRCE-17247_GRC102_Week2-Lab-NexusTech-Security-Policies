@@ -128,8 +128,6 @@ This separation should reduce the problem currently experienced by NexusTech whe
 
 ## 3.3 Policy Hierarchy Diagram
 
-```mermaid
-flowchart TD
     A[POLICY<br/>High-level mandatory direction<br/>Approved by CEO] --> B[STANDARD<br/>Specific mandatory requirements<br/>Derived from policy]
     B --> C[GUIDELINE<br/>Recommended good practice<br/>Advisory]
     B --> D[PROCEDURE<br/>Step-by-step instructions<br/>Mandatory where applicable]
