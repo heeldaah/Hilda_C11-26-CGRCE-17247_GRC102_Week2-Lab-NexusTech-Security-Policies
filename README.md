@@ -130,18 +130,10 @@ This separation should reduce the problem currently experienced by NexusTech whe
 
 ```mermaid
 flowchart TD
-    A["POLICY
-    High-level mandatory direction
-    Approved by CEO"] --> B["STANDARD
-    Specific mandatory requirements
-    Derived from policy"]
-    B --> C["GUIDELINE
-    Recommended good practice
-    Advisory"]
-    B --> D["PROCEDURE
-    Step-by-step instructions
-    Mandatory where applicable"]
-    C --> E["Implementation"]
+    A[POLICY<br/>High-level mandatory direction<br/>Approved by CEO] --> B[STANDARD<br/>Specific mandatory requirements<br/>Derived from policy]
+    B --> C[GUIDELINE<br/>Recommended good practice<br/>Advisory]
+    B --> D[PROCEDURE<br/>Step-by-step instructions<br/>Mandatory where applicable]
+    C --> E[Implementation]
     D --> E
 
 
